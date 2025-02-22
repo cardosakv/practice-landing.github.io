@@ -1,3 +1,3 @@
-#Purrfect Pals
+# Purrfect Pals
 
 Practice landing page using flexbox.
